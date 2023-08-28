@@ -1,1 +1,34 @@
-
+"menus":{
+		"home":"Home",
+		"company":{
+			"about-us":"About US",
+			"management":"Management",
+			"contact-us":"Contact US"
+		},
+		"investor-uploads":{
+			"annual-reports":"Annual Reports",
+			"financial-results":"Financial Results",
+			"shareholding-patterns":"Shareholding Patterns",
+			"corporate-announcement":"Corporate Announcement",
+			"company-policy":"Company Policy",
+			"other-compliance":"Other Compliance"
+		},
+		"corporate-action":{
+			"dividend-history":"Dividend History",
+			"bonus-issue":"Bonus Issue",
+			"right-issue":"Right Issue",
+			"split":"Split (Sub Division)",
+			"consolidation":"Consolidation",
+			"conversion":"Conversion",
+			"capital-reduction":"Capital Reduction"
+		},
+		"regulations":{
+			"regulation-2013":"The Companies Act, 2013",
+			"regulation-2015":"The SEBI (LODR) Regulations, 2015",
+			"Other-Regulations":"Other Regulations"
+		},
+		"downloads":{
+			"general-downloads":"General Downloads",
+			"checklist":"Checklist & Format"
+		}
+	}
