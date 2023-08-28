@@ -1,4 +1,4 @@
-const dataArray = [
+[
   {
     "label": "home",
     "display": "Home",
@@ -191,4 +191,4 @@ const dataArray = [
       }
     ]
   }
-];
+]
