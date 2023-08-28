@@ -1,34 +1,194 @@
-"menus":{
-		"home":"Home",
-		"company":{
-			"about-us":"About US",
-			"management":"Management",
-			"contact-us":"Contact US"
-		},
-		"investor-uploads":{
-			"annual-reports":"Annual Reports",
-			"financial-results":"Financial Results",
-			"shareholding-patterns":"Shareholding Patterns",
-			"corporate-announcement":"Corporate Announcement",
-			"company-policy":"Company Policy",
-			"other-compliance":"Other Compliance"
-		},
-		"corporate-action":{
-			"dividend-history":"Dividend History",
-			"bonus-issue":"Bonus Issue",
-			"right-issue":"Right Issue",
-			"split":"Split (Sub Division)",
-			"consolidation":"Consolidation",
-			"conversion":"Conversion",
-			"capital-reduction":"Capital Reduction"
-		},
-		"regulations":{
-			"regulation-2013":"The Companies Act, 2013",
-			"regulation-2015":"The SEBI (LODR) Regulations, 2015",
-			"Other-Regulations":"Other Regulations"
-		},
-		"downloads":{
-			"general-downloads":"General Downloads",
-			"checklist":"Checklist & Format"
-		}
-	}
+{
+    "0": {
+        "label": "home",
+        "display": "Home",
+        "icon": "",
+        "visible": true,
+        "type": "internal-link"
+    },
+    "1": {
+        "label": "company",
+        "display": "Company",
+        "icon": "",
+        "visible": true,
+        "type": "internal-link",
+        "child": [
+            {
+                "label": "about-us",
+                "display": "About Us",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            },
+            {
+                "label": "management",
+                "display": "Management",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            },
+            {
+                "label": "contact-us",
+                "display": "Contact Us",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            }
+        ]
+    },
+    "2": {
+        "label": "investor-uploads",
+        "display": "Investor Uploads",
+        "icon": "",
+        "visible": true,
+        "type": "internal-link",
+        "child": [
+            {
+                "label": "annual-reports",
+                "display": "Annual Reports",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            },
+            {
+                "label": "financial-results",
+                "display": "Financial Results",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            },
+            {
+                "label": "shareholding-patterns",
+                "display": "Shareholding Patterns",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            },
+            {
+                "label": "corporate-announcements",
+                "display": "Corporate Announcements",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            },
+            {
+                "label": "organization-policies",
+                "display": "Organization Policies",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            },
+            {
+                "label": "other-compliances",
+                "display": "Other Compliances",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            }
+        ]
+    },
+    "3": {
+        "label": "corporate-actions",
+        "display": "Corporate Actions",
+        "icon": "",
+        "visible": true,
+        "type": "internal-link",
+        "child": [
+            {
+                "label": "dividend-history",
+                "display": "Dividend History",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            },
+            {
+                "label": "bonus-issue",
+                "display": "Bonus Issue",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            },
+            {
+                "label": "right-issue",
+                "display": "Right Issue",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            },
+            {
+                "label": "split",
+                "display": "Split (Sub Division)",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            },
+            {
+                "label": "consolidation",
+                "display": "Consolidation",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            },
+            {
+                "label": "conversion",
+                "display": "Conversion",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            },
+            {
+                "label": "capital-reduction",
+                "display": "Capital Reduction",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            }
+        ]
+    },
+    "4": {
+        "label": "regulations",
+        "display": "Regulations",
+        "icon": "",
+        "visible": true,
+        "type": "internal-link",
+        "child": [
+            {
+                "label": "the-companies-act-2013",
+                "display": "The Companies Act, 2013",
+                "icon": "",
+                "visible": true,
+                "type": "external-link"
+            },
+            {
+                "label": "the-sebi-lodr-regulations-2015",
+                "display": "The SEBI (LODR) Regulations, 2015",
+                "icon": "",
+                "visible": true,
+                "type": "external-link"
+            }
+        ]
+    },
+    "5": {
+        "label": "downloads",
+        "display": "Downloads",
+        "icon": "",
+        "visible": true,
+        "type": "internal-link",
+        "child": [
+            {
+                "label": "general-downloads",
+                "display": "General Downloads",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            },
+            {
+                "label": "checklists",
+                "display": "Checklists & Formats",
+                "icon": "",
+                "visible": true,
+                "type": "internal-link"
+            }
+        ]
+    }
+}
