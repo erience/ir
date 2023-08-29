@@ -1,1 +1,73 @@
 
+[
+  {
+    "order": "0",
+    "display": "Important Note",
+    "icon": "",
+    "visible": true,
+    "linkType": "none",
+    "link": "",
+    "type": "p",
+    "child": [
+      {
+        "display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs.",
+        "icon": "",
+        "visible": true,
+        "linkType": "none",
+        "link": "",
+        "type": "p"
+      },
+      {
+        "display": "Stakeholders are requested to follow the aforesaid circulars and should place the request with us accordingly.",
+        "icon": "",
+        "visible": true,
+        "linkType": "none",
+        "link": "",
+        "type": "p"
+      },
+      {
+        "display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs",
+        "icon": "",
+        "visible": true,
+        "linkType": "none",
+        "link": "",
+        "type": "p"
+      }
+    ]
+  },
+  {
+    "order": "1",
+    "display": "SEBI Shareholder Request related Circulars & FAQs",
+    "icon": "",
+    "visible": true,
+    "linkType": "none",
+    "link": "",
+    "type": "p",
+    "child": [
+      {
+        "display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+        "icon": "https://accuratesecurities.com/img/icons/file.png",
+        "visible": true,
+        "linkType": "external-link",
+        "link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+        "type": "li"
+      },
+      {
+        "display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+        "icon": "https://accuratesecurities.com/img/icons/file.png",
+        "visible": true,
+        "linkType": "external-link",
+        "link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+        "type": "li"
+      },
+      {
+        "display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+        "icon": "https://accuratesecurities.com/img/icons/file.png",
+        "visible": true,
+        "linkType": "external-link",
+        "link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+        "type": "li"
+      }
+    ]
+  }
+]
