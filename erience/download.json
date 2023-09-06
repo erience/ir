@@ -1,73 +1,1360 @@
-
 [
   {
-    "order": "0",
-    "display": "Important Note",
-    "icon": "",
-    "visible": true,
-    "linkType": "none",
-    "link": "",
-    "type": "p",
-    "child": [
-      {
-        "display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs.",
-        "icon": "",
-        "visible": true,
-        "linkType": "none",
-        "link": "",
-        "type": "p"
-      },
-      {
-        "display": "Stakeholders are requested to follow the aforesaid circulars and should place the request with us accordingly.",
-        "icon": "",
-        "visible": true,
-        "linkType": "none",
-        "link": "",
-        "type": "p"
-      },
-      {
-        "display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs",
-        "icon": "",
-        "visible": true,
-        "linkType": "none",
-        "link": "",
-        "type": "p"
-      }
-    ]
-  },
-  {
-    "order": "1",
-    "display": "SEBI Shareholder Request related Circulars & FAQs",
-    "icon": "",
-    "visible": true,
-    "linkType": "none",
-    "link": "",
-    "type": "p",
-    "child": [
-      {
-        "display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
-        "icon": "https://accuratesecurities.com/img/icons/file.png",
-        "visible": true,
-        "linkType": "external-link",
-        "link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
-        "type": "li"
-      },
-      {
-        "display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
-        "icon": "https://accuratesecurities.com/img/icons/file.png",
-        "visible": true,
-        "linkType": "external-link",
-        "link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
-        "type": "li"
-      },
-      {
-        "display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
-        "icon": "https://accuratesecurities.com/img/icons/file.png",
-        "visible": true,
-        "linkType": "external-link",
-        "link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
-        "type": "li"
-      }
-    ]
-  }
+	"generalDownload": [
+		{
+			"order": "0",
+			"display": "Important Note",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Stakeholders are requested to follow the aforesaid circulars and should place the request with us accordingly.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "SEBI Shareholder Request related Circulars & FAQs",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		}
+	],
+	"About": [
+		{
+			"order": "0",
+			"display": "SEBI Circulars",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Stakeholders are requested to follow the aforesaid circulars and should place the request with us accordingly.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "KYC & Other Investor Downloads.",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "Duplicate Share Certificate",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		}
+	],
+	"AnnualReport": [
+		{
+			"order": "0",
+			"display": "Annual Reports",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Stakeholders are requested to follow the aforesaid circulars and should place the request with us accordingly.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "KYC & Other Investor Downloads.",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "Duplicate Share Certificate",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		}
+	],
+	"Checklists-Formats": [
+		{
+			"order": "0",
+			"display": "Checklists & Formats",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Stakeholders are requested to follow the aforesaid circulars and should place the request with us accordingly.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "KYC & Other Investor Downloads.",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "Duplicate Share Certificate",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		}
+	],
+	"Other-Compliances": [
+		{
+			"order": "0",
+			"display": "Other Compliances",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Stakeholders are requested to follow the aforesaid circulars and should place the request with us accordingly.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "KYC & Other Investor Downloads.",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "Duplicate Share Certificate",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		}
+	],
+	"act-2013": [
+		{
+			"order": "0",
+			"display": "The Companies Act, 2013",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Stakeholders are requested to follow the aforesaid circulars and should place the request with us accordingly.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "KYC & Other Investor Downloads.",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "Duplicate Share Certificate",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		}
+	],
+	"Company-Policies": [
+		{
+			"order": "0",
+			"display": "Company Policies",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Stakeholders are requested to follow the aforesaid circulars and should place the request with us accordingly.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "KYC & Other Investor Downloads.",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "Duplicate Share Certificate",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		}
+	],
+	"Corporate-Announcements": [
+		{
+			"order": "0",
+			"display": "Corporate Announcements",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Stakeholders are requested to follow the aforesaid circulars and should place the request with us accordingly.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "KYC & Other Investor Downloads.",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "Duplicate Share Certificate",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		}
+	],
+	"Financial-Result": [
+		{
+			"order": "0",
+			"display": "Financial Result",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Stakeholders are requested to follow the aforesaid circulars and should place the request with us accordingly.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "KYC & Other Investor Downloads.",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "Duplicate Share Certificate",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		}
+	],
+	"Management": [
+		{
+			"order": "0",
+			"display": "Management",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Stakeholders are requested to follow the aforesaid circulars and should place the request with us accordingly.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "KYC & Other Investor Downloads.",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "Duplicate Share Certificate",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		}
+	],
+	"Other-Regulations": [
+		{
+			"order": "0",
+			"display": "Other Regulations",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Stakeholders are requested to follow the aforesaid circulars and should place the request with us accordingly.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "KYC & Other Investor Downloads.",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "Duplicate Share Certificate",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		}
+	],
+	"sebi-2015": [
+		{
+			"order": "0",
+			"display": "The SEBI (LODR) Regulations, 2015",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Stakeholders are requested to follow the aforesaid circulars and should place the request with us accordingly.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "KYC & Other Investor Downloads.",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "Duplicate Share Certificate",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		}
+	],
+	"Shareholding-Patterns": [
+		{
+			"order": "0",
+			"display": "Shareholding Patterns",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Stakeholders are requested to follow the aforesaid circulars and should place the request with us accordingly.",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				},
+				{
+					"display": "Honorable SEBI has issued the Common and Simplified Norms for processing investor’s service request by RTAs",
+					"icon": "",
+					"visible": true,
+					"linkType": "none",
+					"link": "",
+					"type": "p"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "KYC & Other Investor Downloads.",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		},
+		{
+			"order": "1",
+			"display": "Duplicate Share Certificate",
+			"icon": "",
+			"visible": true,
+			"linkType": "none",
+			"link": "",
+			"type": "p",
+			"child": [
+				{
+					"display": "FAQs with respect to Investor Service Requests processed by RTA vide March 30, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/faqfiles/mar-2023/1679976287513.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2023/37 vide March 16, 2023.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2023/1679050146255.pdf",
+					"type": "li"
+				},
+				{
+					"display": "SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 vide January 25, 2022.",
+					"icon": "https://accuratesecurities.com/img/icons/file.png",
+					"visible": true,
+					"linkType": "external-link",
+					"link": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/jan-2022/1643105757606.pdf",
+					"type": "li"
+				}
+			]
+		}
+	]
+}
 ]
