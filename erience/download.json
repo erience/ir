@@ -1,5 +1,4 @@
-
-  {
+{
 	"generalDownload": [
 		{
 			"order": "0",
@@ -286,7 +285,7 @@
 			]
 		}
 	],
-	"Checklists-Formats": [
+	"Checklists_Formats": [
 		{
 			"order": "0",
 			"display": "Checklists & Formats",
@@ -393,7 +392,7 @@
 			]
 		}
 	],
-	"Other-Compliances": [
+	"Other_Compliances": [
 		{
 			"order": "0",
 			"display": "Other Compliances",
@@ -500,7 +499,7 @@
 			]
 		}
 	],
-	"act-2013": [
+	"act_2013": [
 		{
 			"order": "0",
 			"display": "The Companies Act, 2013",
@@ -607,7 +606,7 @@
 			]
 		}
 	],
-	"Company-Policies": [
+	"Company_Policies": [
 		{
 			"order": "0",
 			"display": "Company Policies",
@@ -714,7 +713,7 @@
 			]
 		}
 	],
-	"Corporate-Announcements": [
+	"Corporate_Announcements": [
 		{
 			"order": "0",
 			"display": "Corporate Announcements",
@@ -821,7 +820,7 @@
 			]
 		}
 	],
-	"Financial-Result": [
+	"Financial_Result": [
 		{
 			"order": "0",
 			"display": "Financial Result",
@@ -1035,7 +1034,7 @@
 			]
 		}
 	],
-	"Other-Regulations": [
+	"Other_Regulations": [
 		{
 			"order": "0",
 			"display": "Other Regulations",
@@ -1142,7 +1141,7 @@
 			]
 		}
 	],
-	"sebi-2015": [
+	"sebi_2015": [
 		{
 			"order": "0",
 			"display": "The SEBI (LODR) Regulations, 2015",
@@ -1249,7 +1248,7 @@
 			]
 		}
 	],
-	"Shareholding-Patterns": [
+	"Shareholding_Patterns": [
 		{
 			"order": "0",
 			"display": "Shareholding Patterns",
@@ -1357,4 +1356,3 @@
 		}
 	]
 }
-
